@@ -1,0 +1,536 @@
+{
+  "business": {
+    "name": "Summit Pest Control",
+    "phone": "555-pes-r91",
+    "category": "pest-control",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "pest-control-mountain-bold",
+      "categoryGroup": "pest-control",
+      "name": "Mountain Bold",
+      "recipeFile": "pest-control/mountain-bold.astro",
+      "colors": {
+        "primary": "#14532D",
+        "primaryDark": "#0e3a1f",
+        "primaryLight": "#c4d4cb",
+        "secondary": "#15803D",
+        "accent": "#DC2626",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#14532D",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "pest-control/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa Bay's Trusted Pest Control Experts",
+      "heroSubline": "Locally owned & operated since 2012. We protect your home from Florida's toughest pests with eco-friendly solutions.",
+      "aboutTitle": "Rooted in Tampa Bay, Protecting Your Home",
+      "aboutText": [
+        "Founded in 2012 by Tampa native Mark Wilson, Summit Pest Control began with one truck and a mission to solve our neighbors' pest problems the right way.",
+        "We use targeted treatments that are tough on pests but safe for families and pets, adapting our approach to Florida's humid climate and unique pest challenges.",
+        "From historic bungalows to waterfront condos, we're committed to keeping Tampa Bay homes pest-free through prevention and education."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We know exactly how Tampa's climate and architecture affect pest behavior."
+        },
+        {
+          "title": "Prevention Focus",
+          "description": "Our barrier treatments stop problems before they start, crucial in Florida's year-round pest season."
+        },
+        {
+          "title": "Fast Response",
+          "description": "Same-day service available when urgent issues arise after heavy rains or storms."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No surprise fees - just straightforward solutions for your specific home type."
+        }
+      ],
+      "ctaHeadline": "Schedule Your Free Inspection Today",
+      "ctaSubline": "Call 555-PES-R91 or book online for same-day service in Tampa, St. Pete, and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "termite-inspection-treatment",
+        "name": "Termite Inspection & Treatment",
+        "shortDescription": "Comprehensive protection against Tampa's destructive subterranean and drywood termites.",
+        "description": "Florida's humid climate makes termites a year-round threat to homes of all ages. Our certified inspectors check for telltale mud tubes in historic bungalow crawlspaces, swarmers near waterfront properties, and damage in older wood framing.\n\nWe use non-invasive detection methods first, then tailor treatments to your home's construction - whether injecting foam into concrete block walls of mid-century ranches or applying borate to vulnerable wood in newer builds. Every treatment includes follow-up monitoring, especially crucial before hurricane season when termites become more active.\n\nSpecial considerations for Tampa homes: We pay extra attention to areas where moisture accumulates after afternoon thunderstorms, and inspect attics for drywood termites that thrive in our heat.",
+        "process": [
+          "Step 1: Thorough inspection of foundation, attic, and vulnerable wood structures",
+          "Step 2: Custom treatment plan based on termite species and home construction",
+          "Step 3: Application of EPA-approved liquid barriers or bait systems",
+          "Step 4: Follow-up inspections every 6-12 months depending on risk factors"
+        ],
+        "benefits": [
+          "Protects your home's structural integrity",
+          "Early detection prevents costly repairs",
+          "Solutions tailored to Florida's termite species",
+          "Includes moisture monitoring in high-risk areas"
+        ],
+        "faq": [
+          {
+            "question": "How often should Tampa homes be inspected for termites?",
+            "answer": "We recommend annual inspections for most Tampa properties, but bi-annual checks for older homes or those with previous infestations. The humid climate accelerates termite activity compared to drier regions."
+          },
+          {
+            "question": "Do I need treatment if I don't see termites?",
+            "answer": "Yes - by the time you spot visible signs, damage may already be extensive. Our preventative barriers stop colonies before they reach your home, particularly important for Florida's aggressive subterranean species."
+          }
+        ]
+      },
+      {
+        "slug": "rodent-exclusion",
+        "name": "Rodent Exclusion",
+        "shortDescription": "Complete solutions to keep rats and mice out of Tampa Bay homes year-round.",
+        "description": "Rodents seek refuge in Tampa homes during both rainy summers and cooler winter months, often entering through gaps in older home foundations or utility penetrations in newer builds. Our exclusion process starts with identifying all potential entry points - from broken roof tiles on historic homes to garage door seals in suburban developments.\n\nWe then implement physical barriers using chew-proof materials, paying special attention to vulnerable areas like attic vents and crawlspace accesses. For active infestations, we use tamper-resistant bait stations placed strategically away from children and pets, rather than risky poisons.\n\nPost-storm inspections are especially important, as hurricanes and heavy rains can create new entry points. We also advise on landscaping changes to deter rodents in Tampa's lush environments.",
+        "process": [
+          "Step 1: Interior and exterior inspection for droppings, rub marks, and entry points",
+          "Step 2: Sealing all gaps with rodent-proof materials matched to your home's architecture",
+          "Step 3: Safe removal of existing rodents using humane traps and targeted baits",
+          "Step 4: Follow-up to ensure the property remains rodent-free"
+        ],
+        "benefits": [
+          "Prevents disease transmission from rodents",
+          "Protects wiring and insulation from damage",
+          "Long-term solutions rather than temporary fixes",
+          "Reduces risk of snakes that follow rodent prey"
+        ],
+        "faq": [
+          {
+            "question": "Why do I suddenly have rodents in my Tampa home?",
+            "answer": "Rodent activity often increases after heavy rains or nearby construction disturbs their habitats. Our waterfront and historic districts are particularly susceptible as older homes naturally develop more entry points over time."
+          },
+          {
+            "question": "How do you seal homes without reducing ventilation?",
+            "answer": "We use specialized mesh and vent covers that block rodents while maintaining airflow - crucial for preventing moisture buildup in Florida's humid climate."
+          }
+        ]
+      },
+      {
+        "slug": "mosquito-misting-systems",
+        "name": "Mosquito Misting Systems",
+        "shortDescription": "Automatic protection from Tampa's mosquitoes so you can enjoy your outdoor spaces.",
+        "description": "With Tampa's abundant waterways, frequent rains, and tropical climate, mosquito populations thrive nearly year-round. Our custom misting systems provide automated protection for patios, pools, and outdoor living areas without harsh spraying.\n\nThe systems install discreetly along eaves or landscaping, releasing micro-doses of natural pyrethrin at programmed intervals. We tailor nozzle placement and timing schedules based on your property's specific exposure - whether you're near one of Tampa's many retention ponds, have lush tropical landscaping, or live close to marsh areas.\n\nRegular maintenance includes seasonal adjustments for summer peak activity and hurricane season preparedness checks. We also offer standalone treatments for special events at your home or business.",
+        "process": [
+          "Step 1: Property assessment to identify mosquito breeding and resting areas",
+          "Step 2: Custom system design matched to your outdoor space layout",
+          "Step 3: Professional installation with minimal visual impact",
+          "Step 4: Scheduled maintenance and seasonal adjustments"
+        ],
+        "benefits": [
+          "Enjoy outdoor spaces without constant spraying",
+          "Reduces risk of mosquito-borne illnesses",
+          "Automated system works even when you're away",
+          "Uses minimal amounts of targeted product"
+        ],
+        "faq": [
+          {
+            "question": "How effective are misting systems during Tampa's rainy season?",
+            "answer": "Our systems are designed to account for heavy rainfall, with adjustable scheduling to maintain effectiveness. We also include larvicide treatments for standing water areas that can't be eliminated."
+          },
+          {
+            "question": "Will this harm beneficial insects in my garden?",
+            "answer": "We use precise application methods and timing to minimize impact on pollinators while targeting mosquitoes. The system can be programmed to avoid peak pollination hours."
+          }
+        ]
+      },
+      {
+        "slug": "bed-bug-treatment",
+        "name": "Bed Bug Treatment",
+        "shortDescription": "Discreet, thorough elimination of bed bugs from Tampa homes and apartments.",
+        "description": "Bed bugs hitchhike into Tampa homes via luggage, used furniture, and even public transit. Our multi-phase treatment combines heat, targeted chemicals, and prevention strategies adapted to Florida's unique challenges - where bed bugs can thrive year-round without seasonal die-off.\n\nWe begin with canine-assisted inspections to pinpoint infestations without unnecessary disruption, especially important in crowded apartment buildings or historic homes with many crevices. Treatments then use precisely calibrated heat equipment that penetrates walls and furniture, followed by residual barriers.\n\nFor Tampa's many vacation rentals and snowbird properties, we offer specialized protocols for seasonal residences. We also train housekeeping staff at local hotels in early detection methods.",
+        "process": [
+          "Step 1: Certified canine inspection to locate all infestation areas",
+          "Step 2: Heat treatment to eradicate bugs in all life stages",
+          "Step 3: Targeted application of residual products in key travel areas",
+          "Step 4: Follow-up verification and prevention recommendations"
+        ],
+        "benefits": [
+          "Eliminates bugs at all life stages",
+          "Minimizes need for disruptive prep work",
+          "Includes education to prevent reinfestation",
+          "Discreet service protects your privacy"
+        ],
+        "faq": [
+          {
+            "question": "Why choose heat treatment over sprays alone?",
+            "answer": "Heat penetrates deep into walls and furniture where sprays can't reach, and kills all life stages immediately. This is crucial in Tampa's multi-unit buildings where bed bugs spread rapidly between units."
+          },
+          {
+            "question": "How can I prevent bed bugs in my vacation home?",
+            "answer": "We recommend installing mattress encasements and conducting inspections between guest rotations. Our seasonal maintenance program helps catch issues early before they become major infestations."
+          }
+        ]
+      },
+      {
+        "slug": "palmetto-bug-control",
+        "name": "Palmetto Bug Control",
+        "shortDescription": "Year-round solutions for Florida's notorious palmetto bugs and cockroaches.",
+        "description": "Palmetto bugs - Florida's oversized cockroaches - thrive in our humid climate and frequently invade homes seeking moisture. Our approach targets both the insects and the conditions that attract them, with special attention to Tampa's common problem areas.\n\nIn older bungalows, we focus on foundation cracks and plumbing penetrations. For newer construction, we address gaps around HVAC systems and garage doors. We use gel baits in strategic locations rather than widespread spraying, reducing chemical exposure while effectively breaking the breeding cycle.\n\nRegular treatments are particularly important before summer rains begin, when palmetto bugs become most active. We also provide recommendations for reducing humidity and moisture sources in your home.",
+        "process": [
+          "Step 1: Inspection to identify entry points and moisture sources",
+          "Step 2: Application of long-lasting gel baits in strategic locations",
+          "Step 3: Sealing of common entry points with pest-proof materials",
+          "Step 4: Follow-up treatments as needed based on activity levels"
+        ],
+        "benefits": [
+          "Reduces sightings of these unsettling pests",
+          "Breaks the breeding cycle for long-term control",
+          "Minimizes pesticide use in living spaces",
+          "Addresses the moisture issues that attract them"
+        ],
+        "faq": [
+          {
+            "question": "Why do I suddenly have palmetto bugs in my home?",
+            "answer": "These pests often invade after heavy rains or when nearby landscaping is disturbed. They're especially common in Tampa homes with palm trees or dense vegetation close to the structure."
+          },
+          {
+            "question": "Are the treatments safe for my pets?",
+            "answer": "Absolutely. Our gel baits are placed in areas inaccessible to pets, and we use products specifically labeled for use in homes with animals. We'll review all precautions during your service."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Termite Inspection",
+        "text": "After finding termite damage in our 1930s Seminole Heights bungalow, Summit identified issues we'd missed for years. Their technician spotted telltale mud tubes behind our original baseboards and recommended targeted treatment that saved our historic wood floors. Two years later, still termite-free!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Marcus T.",
+        "rating": 5,
+        "service": "Rodent Exclusion",
+        "text": "Living near Bayshore, we battled rats every winter. Summit sealed every possible entry point in our 1970s ranch, including clever solutions for our older garage. They even found where rodents were climbing palm trees to access our roof. Haven't seen a single rodent since their work last fall.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 5,
+        "service": "Mosquito Misting System",
+        "text": "Our backyard near the Hillsborough River was unusable evenings due to mosquitoes. Summit installed a misting system that blends perfectly with our landscaping. Now we actually enjoy our pool area at sunset - worth every penny in mosquito-heavy Tampa summers.",
+        "date": "2025-04-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Bed Bug Treatment",
+        "text": "Discovered bed bugs after hosting international relatives. Summit's heat treatment solved our problem in one day with minimal prep work. Their technician explained exactly how to prevent reinfestation - crucial since we live in a downtown high-rise with lots of traveler traffic.",
+        "date": "2025-02-18"
+      },
+      {
+        "name": "Natalie K.",
+        "rating": 5,
+        "service": "Palmetto Bug Control",
+        "text": "Our new construction home in Westchase had palmetto bugs within months. Summit identified they were coming through our AC chase and treated without making our baby's nursery off-limits. Their quarterly maintenance keeps them completely away - even during rainy season.",
+        "date": "2025-05-30"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Termite Treatment",
+        "text": "As a snowbird, I needed someone to protect my Clearwater condo while I'm away. Summit set up annual inspections and preventative treatment that's already caught early termite activity. Their detailed reports give me peace of mind 1,500 miles away.",
+        "date": "2025-03-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tampa Pest Control Services | Summit Pest Control",
+        "description": "Local pest control experts serving Tampa Bay with eco-friendly solutions for termites, rodents, mosquitoes, and more. Same-day service available."
+      },
+      "about": {
+        "title": "About Our Tampa Pest Control Company",
+        "description": "Learn why Tampa homeowners trust Summit Pest Control's local expertise since 2012. Serving all of Hillsborough County with customized solutions."
+      },
+      "services": {
+        "title": "Pest Control Services in Tampa | Summit Pest Control",
+        "description": "Complete pest management solutions tailored to Tampa Bay homes and Florida's unique pest challenges. Termites, bed bugs, mosquitoes, and more."
+      },
+      "contact": {
+        "title": "Contact Tampa's Pest Control Experts | Summit Pest Control",
+        "description": "Schedule your free pest inspection today. Serving Tampa, St. Petersburg, Clearwater, and surrounding areas with same-day service available."
+      },
+      "reviews": {
+        "title": "Tampa Pest Control Reviews | Summit Pest Control",
+        "description": "See what Tampa Bay homeowners say about our pest control services. Real reviews from satisfied customers across Hillsborough County."
+      },
+      "service-areas": {
+        "title": "Pest Control Service Areas | Tampa Bay Region",
+        "description": "We serve all of Tampa Bay including St. Petersburg, Clearwater, Brandon, and Wesley Chapel with customized pest solutions for each community."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "850+",
+      "satisfaction": "97%",
+      "teamSize": "22"
+    },
+    "serviceAreas": [
+      {
+        "city": "St. Petersburg",
+        "slug": "st-petersburg-fl",
+        "state": "FL",
+        "content": "Summit Pest Control provides expert pest management services for the historic homes of St. Petersburg, FL. Our team is well-versed in treating common pests like termites, ants, and roaches that thrive in the area's hot, humid climate. We use environmentally friendly methods to protect your 1920s-50s Florida cottage home without harming its unique charm.\n\nSt. Petersburg's proximity to water also makes it prone to mosquitoes and palmetto bugs. Our seasonal treatments are tailored to address these pests, ensuring your home remains comfortable year-round. Whether you need one-time service or ongoing protection, we've got you covered.",
+        "localContext": "Known for its historic Florida cottage homes and vibrant arts scene, St. Petersburg combines old-world charm with modern living.",
+        "nearbyAreas": [
+          "Tampa",
+          "Clearwater",
+          "Largo"
+        ]
+      },
+      {
+        "city": "Clearwater",
+        "slug": "clearwater-fl",
+        "state": "FL",
+        "content": "Summit Pest Control specializes in protecting Clearwater's ranch-style homes from pests. The 1960s-70s architecture of these homes often has vulnerabilities that pests exploit, especially in the hot, humid summers. Our targeted treatments address common issues like termites, ants, and spiders.\n\nClearwater's coastal location also brings unique pest challenges, including sand fleas and silverfish. Our team uses advanced techniques to keep these pests at bay, ensuring your home stays pest-free. We offer flexible scheduling to fit your busy lifestyle.",
+        "localContext": "Clearwater is famous for its beautiful beaches and mid-century ranch homes, making it a desirable place to live.",
+        "nearbyAreas": [
+          "Largo",
+          "Dunedin",
+          "Safety Harbor"
+        ]
+      },
+      {
+        "city": "Brandon",
+        "slug": "brandon-fl",
+        "state": "FL",
+        "content": "Summit Pest Control serves the suburban communities of Brandon, FL, where 1980s-90s homes are common. These developments often face pest issues like rodents, ants, and roaches due to the area's dense population and humid climate. Our customized plans ensure your home is protected year-round.\n\nBrandon's rapid growth has led to increased pest activity, particularly in newer subdivisions. We focus on preventative measures to keep pests out before they become a problem. Our local expertise means we know exactly what works for your home.",
+        "localContext": "Brandon is a thriving suburb with a mix of established neighborhoods and newer developments, offering a family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Valrico",
+          "Riverview",
+          "Tampa"
+        ]
+      },
+      {
+        "city": "Wesley Chapel",
+        "slug": "wesley-chapel-fl",
+        "state": "FL",
+        "content": "Summit Pest Control is proud to serve the master-planned communities of Wesley Chapel, FL. These newer homes (2000s-2020s) still face pest challenges, especially with the area's hot, humid climate attracting termites, mosquitoes, and ants. Our modern treatments are designed to protect your investment.\n\nWesley Chapel's rapid development means pests are constantly adapting. We stay ahead of the curve with the latest pest control technologies and methods. Whether you're in a gated community or a new subdivision, we provide reliable service.",
+        "localContext": "Wesley Chapel is known for its upscale master-planned communities and excellent schools, making it a top choice for families.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Zephyrhills",
+          "Lutz"
+        ]
+      },
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "Summit Pest Control offers comprehensive pest management solutions for Tampa's diverse neighborhoods. From historic bungalows to modern high-rises, we handle all types of pest issues, including termites, bed bugs, and rodents. Tampa's humid climate makes pest control a year-round necessity.\n\nOur team understands the unique challenges of urban pest control, such as multi-unit buildings and commercial properties. We provide discreet, effective service to keep your home or business pest-free. Trust us to protect your space with proven methods.",
+        "localContext": "Tampa is a bustling city with a mix of historic charm and modern amenities, attracting residents and businesses alike.",
+        "nearbyAreas": [
+          "St. Petersburg",
+          "Clearwater",
+          "Brandon"
+        ]
+      },
+      {
+        "city": "Largo",
+        "slug": "largo-fl",
+        "state": "FL",
+        "content": "Summit Pest Control serves Largo, FL, with tailored pest solutions for its mix of older and newer homes. The area's humid climate fosters pests like termites, roaches, and ants, which can damage your property. Our treatments are designed to be safe for families and pets.\n\nLargo's proximity to parks and water sources also brings unique pest challenges. We offer specialized services to address these issues, ensuring your home stays comfortable. Our local expertise means we know the best approaches for your neighborhood.",
+        "localContext": "Largo is a quiet, residential community with easy access to beaches and parks, making it a great place to call home.",
+        "nearbyAreas": [
+          "Clearwater",
+          "Seminole",
+          "Pinellas Park"
+        ]
+      },
+      {
+        "city": "Riverview",
+        "slug": "riverview-fl",
+        "state": "FL",
+        "content": "Summit Pest Control provides expert pest management for Riverview's growing suburban neighborhoods. The area's newer homes still face pest issues like ants, spiders, and rodents, especially in the humid climate. Our preventative treatments keep these pests at bay.\n\nRiverview's expansion has led to increased pest activity in newly developed areas. We focus on long-term solutions to protect your home. Whether you're in a new subdivision or an established community, we've got you covered.",
+        "localContext": "Riverview is a fast-growing suburb with excellent schools and family-friendly amenities, attracting new residents every year.",
+        "nearbyAreas": [
+          "Brandon",
+          "Lithia",
+          "Apollo Beach"
+        ]
+      },
+      {
+        "city": "Land O' Lakes",
+        "slug": "land-o-lakes-fl",
+        "state": "FL",
+        "content": "Summit Pest Control serves the scenic communities of Land O' Lakes, FL, where lakes and forests create unique pest challenges. The humid climate attracts mosquitoes, termites, and ants, which can invade your home. Our eco-friendly treatments protect your property without harming the environment.\n\nLand O' Lakes' natural beauty also means wildlife pests like rodents and raccoons are common. We offer humane solutions to keep these pests out. Our local knowledge ensures effective service for your home.",
+        "localContext": "Land O' Lakes is known for its picturesque lakes and natural surroundings, offering a peaceful lifestyle.",
+        "nearbyAreas": [
+          "Wesley Chapel",
+          "Lutz",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Valrico",
+        "slug": "valrico-fl",
+        "state": "FL",
+        "content": "Summit Pest Control provides reliable pest control for Valrico's family-friendly neighborhoods. The area's humid climate fosters pests like termites, ants, and roaches, which can damage your home. Our tailored treatments address these issues effectively.\n\nValrico's mix of older and newer homes means pest challenges vary by property. We customize our approach to meet your specific needs. Whether you're in a historic home or a new build, we deliver top-notch service.",
+        "localContext": "Valrico is a charming suburb with a strong sense of community and excellent schools, making it ideal for families.",
+        "nearbyAreas": [
+          "Brandon",
+          "Riverview",
+          "Lithia"
+        ]
+      },
+      {
+        "city": "Seminole",
+        "slug": "seminole-fl",
+        "state": "FL",
+        "content": "Summit Pest Control offers expert pest management for Seminole's coastal communities. The area's humid climate and proximity to water attract pests like mosquitoes, silverfish, and termites. Our treatments are designed to protect your home year-round.\n\nSeminole's mix of older and newer homes requires adaptable pest control solutions. We use advanced methods to address the unique challenges of each property. Trust us to keep your home pest-free with minimal disruption.",
+        "localContext": "Seminole is a quiet, beachside community with a relaxed atmosphere and beautiful natural surroundings.",
+        "nearbyAreas": [
+          "Largo",
+          "Pinellas Park",
+          "Madeira Beach"
+        ]
+      },
+      {
+        "city": "Lutz",
+        "slug": "lutz-fl",
+        "state": "FL",
+        "content": "Summit Pest Control serves Lutz, FL, with customized pest solutions for its rural and suburban homes. The area's humid climate and wooded lots attract pests like termites, ants, and spiders. Our eco-friendly treatments protect your home and family.\n\nLutz's unique blend of properties means pest challenges vary widely. We tailor our services to your specific needs, whether you're on a large lot or in a newer subdivision. Our local expertise ensures effective results.",
+        "localContext": "Lutz offers a mix of rural charm and suburban convenience, with large lots and a peaceful atmosphere.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Pinellas Park",
+        "slug": "pinellas-park-fl",
+        "state": "FL",
+        "content": "Summit Pest Control provides comprehensive pest management for Pinellas Park's diverse neighborhoods. The area's humid climate fosters pests like roaches, ants, and termites, which can invade your home. Our preventative treatments keep these pests under control.\n\nPinellas Park's mix of residential and commercial properties requires adaptable pest solutions. We offer flexible services to meet your needs, whether you're a homeowner or business owner. Trust us to deliver reliable, effective pest control.",
+        "localContext": "Pinellas Park is a vibrant community with a mix of residential, commercial, and industrial areas, offering something for everyone.",
+        "nearbyAreas": [
+          "Largo",
+          "Seminole",
+          "St. Petersburg"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "termite-inspection-treatment": "/images/service-termite-inspection-treatment.webp",
+      "rodent-exclusion": "/images/service-rodent-exclusion.webp",
+      "mosquito-misting-systems": "/images/service-mosquito-misting-systems.webp",
+      "bed-bug-treatment": "/images/service-bed-bug-treatment.webp",
+      "palmetto-bug-control": "/images/service-palmetto-bug-control.webp"
+    },
+    "servicesResponsive": {
+      "termite-inspection-treatment": {
+        "src": "/images/service-termite-inspection-treatment.webp",
+        "srcset": "/images/service-termite-inspection-treatment-400w.webp 400w, /images/service-termite-inspection-treatment-800w.webp 800w, /images/service-termite-inspection-treatment-1200w.webp 1200w, /images/service-termite-inspection-treatment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "rodent-exclusion": {
+        "src": "/images/service-rodent-exclusion.webp",
+        "srcset": "/images/service-rodent-exclusion-400w.webp 400w, /images/service-rodent-exclusion-800w.webp 800w, /images/service-rodent-exclusion-1200w.webp 1200w, /images/service-rodent-exclusion.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "mosquito-misting-systems": {
+        "src": "/images/service-mosquito-misting-systems.webp",
+        "srcset": "/images/service-mosquito-misting-systems-400w.webp 400w, /images/service-mosquito-misting-systems-800w.webp 800w, /images/service-mosquito-misting-systems-1200w.webp 1200w, /images/service-mosquito-misting-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bed-bug-treatment": {
+        "src": "/images/service-bed-bug-treatment.webp",
+        "srcset": "/images/service-bed-bug-treatment-400w.webp 400w, /images/service-bed-bug-treatment-800w.webp 800w, /images/service-bed-bug-treatment-1200w.webp 1200w, /images/service-bed-bug-treatment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "palmetto-bug-control": {
+        "src": "/images/service-palmetto-bug-control.webp",
+        "srcset": "/images/service-palmetto-bug-control-400w.webp 400w, /images/service-palmetto-bug-control-800w.webp 800w, /images/service-palmetto-bug-control-1200w.webp 1200w, /images/service-palmetto-bug-control.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
